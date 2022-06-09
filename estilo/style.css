@@ -55,19 +55,19 @@ header > p {
     max-width: 500px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.363);
-    margin-bottom: 0px;
+    margin-bottom: 20px;
 }
 
 nav {
     background-color: var(--cor05);
-    padding: 5px;
+    padding: 10px;
 }
 
 nav > a {
     font-weight: bold;
     color: white;
-    padding: 5px;
-    border-radius: 5px;
+    padding: 10px;
+    border-radius: 3px;
     text-decoration: none;
 }
  
